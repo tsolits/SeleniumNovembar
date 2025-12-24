@@ -8,11 +8,14 @@ The project is designed as a learning and practice project to demonstrate how au
 
 ---
 
-Environment
-Operating System: Windows 10
-IDE: IntelliJ IDEA 2025.1.1.1
-Browser: Google Chrome
-WebDriver: ChromeDriver (compatible with installed Chrome version)
+## Environment
+
+* Operating System: Windows 10
+* IDE: IntelliJ IDEA 2025.1.1.1
+* Browser: Google Chrome
+* WebDriver: ChromeDriver 
+
+---
 
 ## Technologies Used
 
